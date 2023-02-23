@@ -7,22 +7,19 @@ https://www.fossgis-konferenz.de/2023/
 ![](img/fossgis23-logo.png ) ![](img/postgresql_postgis.png)
 
 
--> hier geht es zum Workshop https://github.com/astroidex/fossgis-2023-workshop-postgresql-postgis-fuer-einsteiger/blob/main/fossgis-2023-workshop-postgresql-postgis-fuer-einsteiger.md
-
+-> hier geht es zum Workshop 
+https://github.com/astroidex/fossgis-2023-workshop-postgresql-postgis-fuer-einsteiger/blob/main/fossgis-2023-workshop-postgresql-postgis-fuer-einsteiger.md
 
 ## Jörg Thomsen
 
 * Jörg Thomsen
 * WhereGroup GmbH
 * joerg.thomsen@wheregroup.com
-* [![@astroidex on twitter](img/twitter.png)](https://twitter.com/astroidex) [@astroidex](https://twitter.com/astroidex)
 
 ## Annika Schmidt
 
 * WhereGroup GmbH
-* annika.schmitd@wheregroup.com
-
-![](img/WhereGroup.png )
+* annika.schmidt@wheregroup.com
 
 
 ## Workshopmaterial Astrid Emde

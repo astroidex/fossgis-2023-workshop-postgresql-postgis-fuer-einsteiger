@@ -13,15 +13,11 @@
 * Jörg Thomsen
 * WhereGroup GmbH 
 * joerg.thomsen@wheregroup.com
-* [![@astroidex on twitter](img/twitter.png)](https://twitter.com/astroidex) [@astroidex](https://twitter.com/astroidex)
 
 ## Annika Schmidt
 
 * WhereGroup GmbH
-* annika.schmitd@wheregroup.com
-
-![](img/WhereGroup.png )
-
+* annika.schmidt@wheregroup.com
 
 ## Workshopmaterial Astrid Emde
 
@@ -30,6 +26,7 @@
 * astrid.emde@wheregroup.com
 * [@astroidex](https://twitter.com/astroidex)
 
+![](img/WhereGroup.png )
 
 * FOSS Academy https://www.foss-academy.com/
 
