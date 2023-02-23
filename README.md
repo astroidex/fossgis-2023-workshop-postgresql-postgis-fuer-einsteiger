@@ -1,8 +1,8 @@
 # FOSSGIS 2023 Workshop PostgreSQL/PostGIS für Einsteiger (Berlin)
 
-https://www.fossgis-konferenz.de/2023/
+Konferenz-Website https://www.fossgis-konferenz.de/2023/
 
-[FOSSGIS 2023 Workshop Berlin](https://www.fossgis-konferenz.de/2023/)
+[FOSSGIS 2023 Workshop-Ankündigung](https://pretalx.com/fossgis2023/talk/MJGEZE/)
 
 ![](img/fossgis23-logo.png ) ![](img/postgresql_postgis.png)
 
