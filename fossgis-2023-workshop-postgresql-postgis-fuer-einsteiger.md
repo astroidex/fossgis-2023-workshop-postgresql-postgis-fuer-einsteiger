@@ -47,7 +47,7 @@
 
 ![](img/osgeolive.png )
 
-Dieser Workshop nutzt OSGeoLive (https://live.osgeo.org) Version 14.0 "Malena" (Release Mai 2021). OSGeoLive basiert auf Lubuntu 20.04.1 Focal und beinhaltet eine Kollektion aus nahezu 50 vorinstallierten Software-Projekten. OSGeoLive beinhaltet außerdem Beispieldaten, die für diesen Workshop verwendet werden.
+Dieser Workshop nutzt OSGeoLive (https://live.osgeo.org) Version 15.0 (Release Oktober 2022). OSGeoLive basiert auf Lubuntu 22.04 Jammy Jellyfish und beinhaltet eine Kollektion aus nahezu 50 vorinstallierten Software-Projekten. OSGeoLive beinhaltet außerdem Beispieldaten, die für diesen Workshop verwendet werden.
 
 ![](img/osgeolive_menu.png)
 
@@ -619,11 +619,11 @@ SELECT a.*
   AND a.gid != b.gid;
 ```
 
-#### Übung 12: ST_UNION - Vereinigen Sie alle Bundesländer von Deutschland zu einer Fläche 
+#### Übung 12: ST_UNION - Vereinigen Sie alle Provinzen von Italien zu einer Fläche 
 
 * Erzeugen Sie eine Sicht **_qry_italy_union_**
 * Nutzen Sie ST_UNION http://postgis.net/docs/ST_Union.html
-* Nutzen Sie die Tabelle **_ne_10m_admin_1_states_provinces** und filtern Sie nach admin Germany (admin='Germany') 
+* Nutzen Sie die Tabelle **_ne_10m_admin_1_states_provinces** und filtern Sie nach admin Italy (admin='Italy') 
 * Fügen Sie die Spalte **_admin_** in Ihre Sicht ein - Sie müssen GROUP BY verwenden
 * Wenden Sie typecast auf die Geometriespalte an
 * Schauen Sie sich das Ergebnis in QGIS an
